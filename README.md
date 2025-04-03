@@ -33,7 +33,7 @@
   
  Frontend:
   
-    React.js (setup instructions optional)
+    React.js 
   
   Tools: 
     IntelliJ IDEA
