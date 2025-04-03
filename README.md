@@ -17,7 +17,7 @@
   Simple product search and view
 
 🛠️ **Technologies Used**
-    **Backend:**
+    Backend:
     
       Java 22
   
@@ -31,11 +31,11 @@
   
       HikariCP
   
- ** Frontend:**
+ Frontend:
   
     React.js (setup instructions optional)
   
-  **Tools: **
+  Tools: 
     IntelliJ IDEA
   
     pgAdmin
